@@ -8,7 +8,7 @@ module.exports=mongoose=>{
 
     })
 
-    const User=mongoose.model("User",schema)
+     const User=mongoose.model("User",schema)
     return User
 }
 
